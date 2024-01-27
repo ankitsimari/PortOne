@@ -1,6 +1,6 @@
  <h1>Stripe Payment API Server</h1>
 
-      <p>Deployed API: <a href="https://grumpy-life-jacket-dove.cyclic.app/" target="_blank">https://grumpy-life-jacket-dove.cyclic.app/</a></p>
+  <p>Deployed API: <a href="https://grumpy-life-jacket-dove.cyclic.app/" target="_blank">https://grumpy-life-jacket-dove.cyclic.app/</a></p>
 
   <p>This is a simple Express.js server for handling payments using the Stripe API.</p>
 
